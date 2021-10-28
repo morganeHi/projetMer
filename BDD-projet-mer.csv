@@ -1,0 +1,23 @@
+categorie,nom,methode de peche,materiel,materiel2,materiel3,materiel4,ville,comestible,reglementation
+mollusque,coque,marée basse,râteau,,,,"saint-malo,cancale, lancieux(briantais)",oui,"2.7 cm, capture limitée à 100 par personne et par jour"
+poisson,equille,"nuit, marée basse, juin à septembre",aucun,râteau,,,"rance, baie du mont-saint-michel, saint-briac(sous le pont)",oui,capture limitée à 50 par personnes et par jour
+mollusque,palourde, enfouie dans le sable à une profondeur de 6 à 15 cm,griffe,râteau,couteau à palourde,,"saint-malo, saint-lunaire",oui,"4 cm, capture limitée à 100 unités par personne et par jour"
+mollusque,couteau,"facilement trouvable grâce aux trous en forme de huit qui indiquent sa postion, verser du sel dessus pour le faire sortir",sel,pince,,,"saint-malo, saint-lunaire",oui,"10 cm, non limité"
+crustacé,crevette grise,dans les flaques à marrée basse,épuisette,haveneau,,,saint-malo,oui,"3 cm, capture limitée à 5 litres par personne et par jour"
+mollusque,ormeau,"sous les rochers a marée basse (attention s'il est abîmé, il meure)",aucun,pelle ,couteau,croc,saint-malo,oui,"9 cm,  pêche autorisée du 1/09 au 14/05, capture limitée à 20 unités par personne et par jour"
+crustacé,crevette rose,sous les rochers et dans les flaques aprés grande marée,épuisette,haveneau,,,"rance, baie du mont-saint-michel",oui,5 cm
+crustacé,etrille ,"à marée basse, sous les rochers, dans les flaques",pince,croc,aucun,,"saint-malo,saint-Lunaire",oui,"6.5 cm, capture limitée à 40 unités par personne et par jour"
+crustacé,crabes vert,"sous les rochers, plus facilement à marée basse",croc,aucun,,,saint-malo,non,"6.5 cm, capture limitée à 20 unités par personne et par jour"
+crustacé,crabe carré,marée Basse sous les rochers (Rare),aucun,,,,saint-malo ,non,pas de restriction
+crustacé,homard,"grande marée basse (coef > 100), caché dans les rochers (rare)",croc ,,,,"rance, baie du mont-saint-michel",oui,"8,7 cm, capture limitée à 4 unités par personne et par jour"
+mollusque,praire,marée basse dans le sable à une profondeur d'à peu prés 10 cm,gratoir,griffe,pelle,,"rance, baie du mont-saint-michel",oui,"4,3 cm, pêche autorisée du 1/09 au 30/04, capture limitée à 100 unités par personne et par jour"
+mollusque,bulot,"dans le sable, on peut apercevoir un bout de leur coquille pointue qui dépasse lorsque la marée descend",aucun,râteau,,,"rance, baie du mont-saint-michel",oui,"4,5 cm, capture limitée à 100 unités par personne et par jour"
+crustacé,tourteau,"dans les crevasses, aprés grande marée",pince,aucun,,,saint-lunaire(grand lambert),oui,"14 cm, capture limitée à 10 individus par personne et par jour"
+crustacé,araigné de mer ,"dans les crevasses, aprés grande marée ou sous un rocher si en mue",croc,aucun,,,"saint-malo, saint-lunaire(grand lambert)",oui,"12 cm, capture limitée à 10 unités par personne et par jour"
+mollusque,coquille st jacques , uniquement pendant les grandes marées d'équinoxe(rare),aucun,,,,"saint-malo, baie du mont saint-michel",oui,"11 cm, pêche autorisée du 1/10 au 14/05, capture limitée à 30 unités par personne et par jour"
+mollusque,huitre creuse,"dans la zone de flux des marées, c’est la partie qui se trouve entre les points les plus hauts et les plus bas atteints par l'eau",burin,couteau,,,saint-malo,oui,"5 cm,  pêche autorisée du 1/09 au 30/04, capture limitée à 60 unités par personne et par jour"
+mollusque,huitre plate,"dans la zone de flux des marées, c’est la partie qui se trouve entre les points les plus hauts et les plus bas atteints par l'eau",burin,couteau,,,saint-malo,oui,"6 cm,  pêche autorisée du 1/09 au 30/04, capture limitée à 60 unités par personne et par jour "
+mollusque,moule,"marée basse, au printemps, sur les rochers",aucun,couteau,,,saint-malo,oui,"4 cm,  pêche autorisée du 1/09 au 30/04, capture limitée à 300 unités par personne et par jour"
+echinoderme,oursin ,à la pique à marée montante dans les rochers,croc,pique,couteau,,saint-malo,oui,"5,5 cm, piquants exclus, pêche autorisée du 1/11 au 14/04, capture limitée à 50 unités par personne et par jour"
+crustacé,crabe fouisseur,"à la pique à marée montante, dans les rochers",aucun,pelle,,,saint-malo,non,pas de restriction
+crustacé,bigorneau,"sur les parois verticales rocheuses, marée basse",aucun,,,,"rance, baie du mont-saint-michel",oui,pas de restriction
